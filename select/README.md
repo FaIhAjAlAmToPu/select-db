@@ -10,6 +10,12 @@ SELECT * FROM table_name;
 SELECT column1, column2 FROM table_name;
 ```
 
+### Select only the unique values
+
+```sql
+SELECT DISTINCT column2 FROM table_name;
+```
+
 ### Rename a Column Heading (Alias)
 
 ```sql
